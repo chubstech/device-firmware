@@ -1,6 +1,10 @@
 # device-firmware
 Requires arduino studio
 
+install esp32 plugin:
+
+https://github.com/espressif/arduino-esp32
+
 Board Mode: Node32s
 
 Board: https://www.amazon.com/MELIFE-Development-Dual-Mode-Microcontroller-Integrated/dp/B07Q576VWZ/
